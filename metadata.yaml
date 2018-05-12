@@ -1,0 +1,29 @@
+_repo: Introduction-of-the-Locomotive-Safety-TruckContributions-from-the-Museum-of-History-and-Techn__25454
+_version: 0.1.0
+covers:
+- cover_type: archival
+  image_path: 25454-h/images/cover-700.jpg
+creator:
+  author:
+    agent_name: White, John H.
+    birthdate: 1933
+    gutenberg_agent_id: '31347'
+    url: http://www.gutenberg.org/2009/agents/31347
+description: ''
+gutenberg_bookshelf: Technology
+gutenberg_issued: '2008-05-12'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '25454'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcsh 'Locomotives'
+- !lcsh 'Railroads -- Safety applications'
+- !lcc 'TJ'
+title: 'Introduction of the Locomotive Safety Truck
+
+  Contributions from the Museum of History and Technology: Paper 24'
+url: http://www.gutenberg.org/ebooks/25454
